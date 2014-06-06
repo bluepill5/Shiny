@@ -1,5 +1,3 @@
-# Set you working directory
-
 # Define UI for application that plots random distributions
 shinyUI(
     pageWithSidebar( 
